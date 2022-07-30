@@ -43,6 +43,6 @@ h2:hover span{
 }
 @media (max-width: 385px){
     h2{
-        font-size: 3em;
+        font-size: 2em;
     }
 }
